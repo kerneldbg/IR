@@ -1,4 +1,4 @@
-# Helpful Commands:
+# General Commands:
 ```bash
 # Obtain a file hash with Powershell
 Get-FileHash [file.ext]
