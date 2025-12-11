@@ -1,4 +1,3 @@
-# Chainsaw Commands
 
 ```bash
 # Search Operation

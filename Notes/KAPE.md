@@ -1,5 +1,3 @@
-# Kape Commands
-
 It is highly recommended to use gKAPE - the GUI frontend of KAPE.
 
 ```bash

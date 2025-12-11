@@ -1,4 +1,3 @@
-# Volatility Commands
 
 ```bash
 # List running process:
