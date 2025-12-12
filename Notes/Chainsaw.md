@@ -1,3 +1,9 @@
+*******
+- `Chainsaw` - An advanced, high-speed log parsing program.
+	- Takes advantage of [Sigma](https://github.com/SigmaHQ/sigma) rules for threat hunting.
+	- `Sigma` - a SIEM-agnostic set of rules that embody behaviors of threat actors.
+	- Parses through `EVTX` files - Windows proprietary binary log file format.
+## CLI Commands
 
 ```bash
 # Search Operation
